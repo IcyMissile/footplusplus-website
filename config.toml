@@ -76,10 +76,10 @@ image = "img/peggy_headshot_small.jpg"
 title = "Peggy Wang"
 description = "Pursuing B.S. in Biomechanical Engineering - Stanford. Currently working on research projects at [Stanford BDML](http://bdml.stanford.edu/). She is especially invested in Foot++ because she herself has a slight hearing impairment, so she is committed to bringing affordable, non-intrusive medical devices to people in need."
 
-[[params.team.list]]
-image = "img/jnaulty_headshot_small.jpg"
-title = "John Naulty Jr."
-description = "B.A. in Cognitive Science - UC Berkeley. Cloud infrastructure engineer and hardware enthusiast. He is a member, and co-founder of NeurotechX, and enjoys being part of a community of curious researchers, engineers, and others interested in the intersection of neuroscience and technology."
+# [[params.team.list]]
+# image = "img/jnaulty_headshot_small.jpg"
+# title = "John Naulty Jr."
+# description = "B.A. in Cognitive Science - UC Berkeley. Cloud infrastructure engineer and hardware enthusiast. He is a member, and co-founder of NeurotechX, and enjoys being part of a community of curious researchers, engineers, and others interested in the intersection of neuroscience and technology."
 
 
 # Portfolio modals
